@@ -10,8 +10,3 @@ while not celsius.isnumeric():
 else:
     fahrenheit = (int(celsius) * 9 / 5) + 32
     print("the Fahrenheit conversion of " + str(celsius) + " is " + str(fahrenheit))
-
-
-
-
-
