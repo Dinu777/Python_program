@@ -1,3 +1,6 @@
+# The 5 x 5 matrix of 'O' is a ocean with a battleship hidden at a random i x j position find the position within 5 turns
+
+
 from random import randint
 
 from pip._vendor.distlib.compat import raw_input
